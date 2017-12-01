@@ -2,6 +2,7 @@
 
 This is my Camera Effects Project
 
-![filter](techstartFilter.jpg?raw=true "Optional Title")
+![Miguel Clown.JPG](https://github.com/miguelalcocer/miguelalcocer.github.io/blob/master/Miguel%20Clown.PNG?raw=true "Optional Title")
 
 ###
+
